@@ -1,5 +1,5 @@
 
-📚 **Investigación Jurídica Actual: Guía de Renovación Metodológica**
+# 📚 **Investigación Jurídica Actual: Guía de Renovación Metodológica**
 
 Este curso reúne materiales, notas y herramientas metodológicas para el estudio y desarrollo de la investigación jurídica contemporánea. Su finalidad es ofrecer un marco conceptual y técnico que permita investigaciones rigurosas, sistemáticas y apoyadas en recursos digitales modernos.
 
